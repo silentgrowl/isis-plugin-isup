@@ -17,3 +17,7 @@ And then execute:
 ## Usage
 
 To check if a site is up for everyone, type ```!isup (domain)``` in chat (eg. ```!isup www.google.com```)
+
+## Links
+
+* [isis-plugin-isup on RubyGems](https://rubygems.org/gems/isis-plugin-isup)
